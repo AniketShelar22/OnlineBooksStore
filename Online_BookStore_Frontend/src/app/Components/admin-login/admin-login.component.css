@@ -1,0 +1,15 @@
+.login{
+    width: 90px;
+}
+.body{
+    background-image: url("https://wallpaperaccess.com/thumb/1771644.jpg");
+    background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+}
+
+h1,label,p{
+    color: white;
+}
