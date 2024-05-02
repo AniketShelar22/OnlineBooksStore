@@ -1,3 +1,7 @@
+.container-fluid{
+  min-height: 87%;
+}
+
 .back {
     background: linear-gradient(to bottom right, #F7C566, #FFEBB2); /* Gradient colors */
     

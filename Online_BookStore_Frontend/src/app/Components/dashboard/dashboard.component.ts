@@ -27,7 +27,7 @@ export class DashboardComponent implements OnInit,AfterViewInit {
 
   //pagination
   p:number=1;
-  count : number = 12;
+  count : number = 5;
 
   
 

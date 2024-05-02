@@ -18,7 +18,7 @@ export class SingleBookInfoComponent implements OnInit {
 
   //pagination
   p:number=1;
-  count : number = 12;
+  count : number = 5;
 
   //
   bId : number; 

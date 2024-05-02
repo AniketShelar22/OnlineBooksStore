@@ -1,3 +1,7 @@
+.container{
+    min-height: 100%;
+}
+
 .custom-scrollbar {
     max-height: 400px;
     overflow-y: auto;
